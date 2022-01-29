@@ -1,2 +1,6 @@
 # RidgeOS hobby operating system
-Written in C, i386, GRUB bootloader
+Using GRUB bootloader
+
+Required to run: qemu-system-i386, linuxbrew i686-elf-gcc
+
+Written in: C
